@@ -140,6 +140,7 @@ nav {
 }
 .plan ul{
     padding: 0;
+    border-radius: 25%;
 }
 .plan li{
     list-style: none;
